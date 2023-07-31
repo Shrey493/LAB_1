@@ -1,2 +1,3 @@
-# LAB_1
-IT-314 Choosing Software Process Models
+# LAB_ASSIGNMENT
+IT-314 
+LAB_1_Choosing Software Process Models
